@@ -1,0 +1,9 @@
+django
+tensorflow
+db-sqlite3
+pandas
+numpy
+scikit-learn
+opencv-python
+matplotlib
+mediapipe
